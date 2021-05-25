@@ -1,0 +1,11 @@
+[ {
+  "name" : "kör",
+  "definition" : "Azon pontok halmaza a síkban, melyek a sík egy adott pontjától egyenlő távolságra vannak.",
+  "topic" : "GEOMETRIA",
+  "level" : "ALTALANOS_ISKOLA"
+}, {
+  "name" : "paralelogramma",
+  "definition" : "Olyan négyszög, melynek szemközti oldalai párhuzamosok.",
+  "topic" : "GEOMETRIA",
+  "level" : "ALTALANOS_ISKOLA"
+} ]
